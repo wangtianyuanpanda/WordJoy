@@ -1,15 +1,21 @@
-## 前端
-### Libraries to use:
+## Frontend
+### Libraries
 + React.js
 + antd
 + dva
 
+### Usage
 ```yarn install```
 
 ``` yarn start```
 
 
-## 后端
+## Backend  
+### Libraries  
++ Spring Boot
++ MySQL  
+
+### Usage
 * 创建数据库 ```create database wordjoy```
 
 * 配置```bs-backend/src/main/resources```下```application.properties```中MySQl的账户和密码
